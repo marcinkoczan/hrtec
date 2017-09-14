@@ -1,0 +1,2 @@
+# hrtec
+Zadanie kwalifikacyjne HRtec
