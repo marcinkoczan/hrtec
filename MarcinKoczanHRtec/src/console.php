@@ -22,7 +22,7 @@ namespace MarcinKoczan;
     //get URL
     $Rss = new Rss($argv[2]);
     
-    //commands - simple or extended generating
+    //commands-simple or extended generating
     switch ($argv[1]) {
         
         case SIMPLE:
